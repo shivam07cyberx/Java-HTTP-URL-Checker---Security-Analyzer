@@ -2,6 +2,7 @@
 A lightweight security analysis tool that checks HTTP headers and detects SQL injection vulnerabilities in websites.
 
  Installation & Compilation
+"There are three Java files: Main.java, HttpHeaderAnalyzer.java, and SqlInjectionTester.java. All three files are saved in a single folder named httpanalyzerjava."
 
 open terminal , compile and run the code..
 1 Compile the Java files
